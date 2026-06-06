@@ -36,4 +36,21 @@
     <string name="wp_pattern">Pattern</string>
     <string name="your_name">Your name</string>
     <string name="your_permissions">Your permissions</string>
+    
+    <!-- Required Manifest Strings -->
+    <string name="asset_statements">[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "web",
+            "site": "https://web.tinode.co"
+        }
+    }]</string>
+    <string name="action_new_chat">New Chat</string>
+    
+    <!-- Search Bar Strings -->
+    <string name="search_hint">ابحث عن الأشخاص والرسائل...</string>
+    <string name="clear_search">مسح البحث</string>
+    <string name="filter_search">عوامل التصفية</string>
+    <string name="search_results">نتائج البحث</string>
+    <string name="no_search_results">لم يتم العثور على نتائج</string>
 </resources>
