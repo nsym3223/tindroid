@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Search Bar Icons and Strings -->
+<resources>
+    <!-- Search Strings -->
+    <string name="search_hint">ابحث عن الأشخاص والرسائل...</string>
+    <string name="clear_search">مسح البحث</string>
+    <string name="filter_search">عوامل التصفية</string>
+    <string name="search_results">نتائج البحث</string>
+    <string name="no_search_results">لم يتم العثور على نتائج</string>
+</resources>
