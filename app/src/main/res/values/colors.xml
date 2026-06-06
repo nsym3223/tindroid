@@ -26,4 +26,8 @@
     <!-- Glassmorphism Colors (with transparency) -->
     <color name="glass_white">#F5F7FA</color>
     <color name="glass_overlay">#1A000000</color>
+    
+    <!-- Missing Colors - CRITICAL FIX -->
+    <color name="grey">#808080</color>
+    <color name="colorSplashScreenBackground">#00BCD4</color>
 </resources>
