@@ -14,4 +14,26 @@
     <string name="channels_description">Channels tab - Browse community channels</string>
     <string name="messages_description">Messages tab - View direct messages</string>
     <string name="voice_club_description">Voice Club tab - Join voice rooms and live streams</string>
+    
+    <!-- Missing String Resources -->
+    <string name="unable_to_play_audio">Unable to play audio</string>
+    <string name="unable_to_play_video">Unable to play video</string>
+    <string name="unable_to_use_service">Unable to use service</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="unknown">Unknown</string>
+    <string name="user_default_permissions_explained">User default permissions explained</string>
+    <string name="user_not_found">User not found</string>
+    <string name="validation_example">Validation example</string>
+    <string name="video">Video</string>
+    <string name="video_call_channel_description">Video call channel</string>
+    <string name="video_call_channel_name">Video Calls</string>
+    <string name="video_calls_unavailable">Video calls unavailable</string>
+    <string name="video_caption_hint">Enter video caption</string>
+    <string name="video_preview">Video preview</string>
+    <string name="view_profile">View profile</string>
+    <string name="wallpapers_unavailable">Wallpapers unavailable</string>
+    <string name="wp_image">Image</string>
+    <string name="wp_pattern">Pattern</string>
+    <string name="your_name">Your name</string>
+    <string name="your_permissions">Your permissions</string>
 </resources>
